@@ -1,2 +1,3 @@
 librosa.py
-
+docker_folder/__pycache__/
+thirdpartylib/docker_folder/__pycache__/
